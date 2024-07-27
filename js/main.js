@@ -26,7 +26,7 @@
     });
 
     // Establecer la fecha hasta la que se contará
-    const countDownDate = new Date("August 24, 2024 17:59:59").getTime();
+    const countDownDate = new Date("August 24, 2024 09:44:59").getTime();
 
     // Actualizar el contador cada 1 segundo
     const x = setInterval(function () {
