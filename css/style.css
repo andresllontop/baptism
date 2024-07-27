@@ -430,6 +430,9 @@
     .footer .text-end {
         text-align: center !important;
     }
+    .text-sm{
+        font-size: 16px  !important;
+    }
 }
 /*** Footer End ***/
 
